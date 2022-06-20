@@ -17,7 +17,7 @@ title: Codebreaking
 tagline: Fall 2022
 description: A student-led course in applied cryptography and codebreaking
 author: Ryan Cottone, Imran
-baseurl: '/' # the subpath of your site, e.g. /blog
+#baseurl: '/' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
