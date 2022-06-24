@@ -7,3 +7,6 @@ TBD
 
 TBD 
 : **Lab**{: .label .label-purple } [Breaking RSA](#)
+
+TBD 
+: **Note**{: .label .label-blue } [Primality Testing](#)

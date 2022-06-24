@@ -7,3 +7,6 @@ TBD
 
 TBD 
 : **Lab**{: .label .label-purple } [Time Capsule](#)
+
+TBD 
+: **Note**{: .label .label-blue } [Measuring Security](#)

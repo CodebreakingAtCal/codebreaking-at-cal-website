@@ -7,3 +7,6 @@ TBD
 
 TBD 
 : **Lab**{: .label .label-purple } [Enigma Cryptanalysis](#)
+
+TBD 
+: **Note**{: .label .label-blue } [Fitness Functions](#)

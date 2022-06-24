@@ -7,3 +7,6 @@ TBD
 
 TBD 
 : **Lab**{: .label .label-purple } [Birthday Paradox](#)
+
+TBD 
+: **Note**{: .label .label-blue } [Preimage and Second-Preimage Resistance](#)

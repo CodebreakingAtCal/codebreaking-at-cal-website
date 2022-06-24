@@ -7,3 +7,6 @@ TBD
 
 TBD 
 : **Lab**{: .label .label-purple } [Breaking Repeated-key XOR](#)
+
+TBD 
+: **Note**{: .label .label-blue } [Basic Information Theory](#)

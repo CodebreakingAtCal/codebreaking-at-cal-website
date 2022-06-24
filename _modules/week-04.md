@@ -7,3 +7,6 @@ TBD
 
 TBD 
 : **Lab**{: .label .label-purple } [Meet-in-the-middle](#)
+
+TBD 
+: **Note**{: .label .label-blue } [Basic Complexity Theory](#)

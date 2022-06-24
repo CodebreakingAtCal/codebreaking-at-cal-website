@@ -7,3 +7,6 @@ TBD
 
 TBD 
 : **Lab**{: .label .label-purple } [Examples of Encryption](#)
+
+TBD 
+: **Note**{: .label .label-blue } [Notation](#)

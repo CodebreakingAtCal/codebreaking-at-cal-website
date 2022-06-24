@@ -7,3 +7,6 @@ TBD
 
 TBD 
 : **Lab**{: .label .label-purple } [Man-in-the-middle Attack](#)
+
+TBD 
+: **Note**{: .label .label-blue } [Modular Arithmetic](#)

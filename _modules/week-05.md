@@ -7,3 +7,6 @@ TBD
 
 TBD 
 : **Lab**{: .label .label-purple } [Innocent Images](#)
+
+TBD 
+: **Note**{: .label .label-blue } [Statistical Analysis of Images](#)
