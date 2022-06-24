@@ -22,7 +22,9 @@ description: >-
 The Codebreaking at Cal DeCal is designed to provide an introduction to the field of cryptography. This course will focus on real-world examples to teach the mathematics and computer science behind the field. Students will develop both practical and theoretical skills to approach a wide variety of cryptographic challenges in the labs.
 
 ## Grading
-Grading will be done as follows: 40% Lecture, 60% Labs. Students must receive **70%** to pass (this equates to 10/14 lecture attendance and 8/13 labs). Further details may be found below.
+Grading will be done as follows: 40% Lecture, 60% Labs. Students must receive **70%** to pass (this equates to 10/14 lecture attendance and 8/13 labs). Further details may be found below. The course is worth 2 units, pass / no-pass.
+
+NOTE: We really don't want to NP anyone who puts in effort. Reach out to staff if you are having trouble or want extensions!
 
 ## Lecture
 
