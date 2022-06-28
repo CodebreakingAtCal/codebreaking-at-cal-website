@@ -1,12 +1,12 @@
 ---
-title: Week 11
+title: Week 10
 ---
 
 TBD
-: **Lecture**{: .label .label-red } [Post-Quantum Encryption](#)
+: **Lecture**{: .label .label-red } [Steganography](#)
 
 TBD 
-: **Lab**{: .label .label-purple } [Prime Factorization](#)
+: **Lab**{: .label .label-purple } [Innocent Images](#)
 
 TBD 
-: **Note**{: .label .label-blue } [Discrete Logarithms and Computation Hardness](#)
+: **Note**{: .label .label-blue } [Statistical Analysis of Images](#)

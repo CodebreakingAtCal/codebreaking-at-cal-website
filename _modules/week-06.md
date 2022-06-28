@@ -3,10 +3,10 @@ title: Week 6
 ---
 
 TBD
-: **Lecture**{: .label .label-red } [Randomness](#)
+: **Lecture**{: .label .label-red } [Message Authentication Codes](#)
 
 TBD 
-: **Lab**{: .label .label-purple } [Exploiting RNG](#)
+: **Lab**{: .label .label-purple } [Breaking MACs](#)
 
 TBD 
-: **Note**{: .label .label-blue } [True Randomness and Statistical Randomness Testing](#)
+: **Note**{: .label .label-blue } [Authentication and Signatures](#)

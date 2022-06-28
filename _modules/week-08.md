@@ -1,12 +1,12 @@
 ---
-title: Week 8
+title: Week 7
 ---
 
 TBD
-: **Lecture**{: .label .label-red } [Asymmetric Encryption - Part 1](#)
+: **Lecture**{: .label .label-red } [Asymmetric Encryption - Part 2](#)
 
 TBD 
-: **Lab**{: .label .label-purple } [Man-in-the-middle Attack](#)
+: **Lab**{: .label .label-purple } [Breaking RSA](#)
 
 TBD 
-: **Note**{: .label .label-blue } [Modular Arithmetic](#)
+: **Note**{: .label .label-blue } [Primality Testing](#)

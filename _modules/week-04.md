@@ -3,10 +3,10 @@ title: Week 4
 ---
 
 TBD
-: **Lecture**{: .label .label-red } [Cascade Ciphers](#)
+: **Lecture**{: .label .label-red } [Randomness](#)
 
 TBD 
-: **Lab**{: .label .label-purple } [Meet-in-the-middle](#)
+: **Lab**{: .label .label-purple } [Exploiting RNG](#)
 
 TBD 
-: **Note**{: .label .label-blue } [Basic Complexity Theory](#)
+: **Note**{: .label .label-blue } [True Randomness and Statistical Randomness Testing](#)

@@ -1,12 +1,12 @@
 ---
-title: Week 7
+title: Week 6
 ---
 
 TBD
-: **Lecture**{: .label .label-red } [Hashing](#)
+: **Lecture**{: .label .label-red } [Asymmetric Encryption - Part 1](#)
 
 TBD 
-: **Lab**{: .label .label-purple } [Birthday Paradox](#)
+: **Lab**{: .label .label-purple } [Man-in-the-middle Attack](#)
 
 TBD 
-: **Note**{: .label .label-blue } [Preimage and Second-Preimage Resistance](#)
+: **Note**{: .label .label-blue } [Fermat's Little Theorem](#)

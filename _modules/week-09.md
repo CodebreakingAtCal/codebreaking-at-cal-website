@@ -1,12 +1,12 @@
 ---
-title: Week 9
+title: Week 8
 ---
 
 TBD
-: **Lecture**{: .label .label-red } [Asymmetric Encryption - Part 2](#)
+: **Lecture**{: .label .label-red } [Modern Encryption](#)
 
 TBD 
-: **Lab**{: .label .label-purple } [Breaking RSA](#)
+: **Lab**{: .label .label-purple } [Elliptic Curve Cryptography](#)
 
 TBD 
-: **Note**{: .label .label-blue } [Primality Testing](#)
+: **Note**{: .label .label-blue } [Elliptic Curves and Block Ciphers](#)

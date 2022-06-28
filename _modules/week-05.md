@@ -3,10 +3,10 @@ title: Week 5
 ---
 
 TBD
-: **Lecture**{: .label .label-red } [Steganography](#)
+: **Lecture**{: .label .label-red } [Hashing](#)
 
 TBD 
-: **Lab**{: .label .label-purple } [Innocent Images](#)
+: **Lab**{: .label .label-purple } [Birthday Paradox](#)
 
 TBD 
-: **Note**{: .label .label-blue } [Statistical Analysis of Images](#)
+: **Note**{: .label .label-blue } [Preimage and Second-Preimage Resistance](#)
