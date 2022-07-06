@@ -3,10 +3,10 @@ title: Week 6
 ---
 
 TBD
-: **Lecture**{: .label .label-red } [Message Authentication Codes](#)
+: **Lecture**{: .label .label-red } [Hashing](#)
 
 TBD 
-: **Lab**{: .label .label-purple } [Breaking MACs](#)
+: **Lab**{: .label .label-purple } [Birthday Paradox](#)
 
 TBD 
-: **Note**{: .label .label-blue } [Authentication and Signatures](#)
+: **Note**{: .label .label-blue } [Preimage and Second-Preimage Resistance](#)

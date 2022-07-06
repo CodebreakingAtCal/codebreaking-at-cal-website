@@ -3,10 +3,10 @@ title: Week 1
 ---
 
 TBD
-: **Lecture**{: .label .label-red } [Introduction](#)
+: **Lecture**{: .label .label-red } [Substitution Ciphers - Part 1](#)
 
 TBD 
-: **Lab**{: .label .label-purple } [Examples of Encryption](#)
+: **Lab**{: .label .label-purple } [Polyalphabetic Substitution](#)
 
 TBD 
-: **Note**{: .label .label-blue } [Notation](#)
+: **Note**{: .label .label-blue } [Frequency Analysis](#)

@@ -1,12 +1,6 @@
 ---
-title: Week 10
+title: Week 11
 ---
 
 TBD
-: **Lecture**{: .label .label-red } [Steganography](#)
-
-TBD 
-: **Lab**{: .label .label-purple } [Innocent Images](#)
-
-TBD 
-: **Note**{: .label .label-blue } [Statistical Analysis of Images](#)
+: **Lecture**{: .label .label-red } [To Be Determined](#)

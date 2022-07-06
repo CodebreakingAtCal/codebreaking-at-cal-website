@@ -3,10 +3,10 @@ title: Week 5
 ---
 
 TBD
-: **Lecture**{: .label .label-red } [Hashing](#)
+: **Lecture**{: .label .label-red } [Randomness](#)
 
 TBD 
-: **Lab**{: .label .label-purple } [Birthday Paradox](#)
+: **Lab**{: .label .label-purple } [Exploiting RNG](#)
 
 TBD 
-: **Note**{: .label .label-blue } [Preimage and Second-Preimage Resistance](#)
+: **Note**{: .label .label-blue } [True Randomness and Statistical Randomness Testing](#)

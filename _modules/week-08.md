@@ -1,12 +1,12 @@
 ---
-title: Week 7
+title: Week 8
 ---
 
 TBD
-: **Lecture**{: .label .label-red } [Asymmetric Encryption - Part 2](#)
+: **Lecture**{: .label .label-red } [Message Authentication Codes](#)
 
 TBD 
-: **Lab**{: .label .label-purple } [Breaking RSA](#)
+: **Lab**{: .label .label-purple } [Breaking MACs](#)
 
 TBD 
-: **Note**{: .label .label-blue } [Primality Testing](#)
+: **Note**{: .label .label-blue } [Authentication and Signatures](#)

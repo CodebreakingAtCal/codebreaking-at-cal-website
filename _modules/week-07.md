@@ -1,12 +1,12 @@
 ---
-title: Week 6
+title: Week 7
 ---
 
 TBD
-: **Lecture**{: .label .label-red } [Asymmetric Encryption - Part 1](#)
+: **Lecture**{: .label .label-red } [Steganography](#)
 
 TBD 
-: **Lab**{: .label .label-purple } [Man-in-the-middle Attack](#)
+: **Lab**{: .label .label-purple } [Innocent Images](#)
 
 TBD 
-: **Note**{: .label .label-blue } [Fermat's Little Theorem](#)
+: **Note**{: .label .label-blue } [Statistical Analysis of Images](#)
