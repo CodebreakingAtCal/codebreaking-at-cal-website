@@ -9,4 +9,4 @@ TBD
 : **Lab**{: .label .label-purple } [Prime Factorization](#)
 
 TBD 
-: **Note**{: .label .label-blue } [Discrete Logarithms and Computation Hardness](#)
+: **Note**{: .label .label-blue } [Note 10](#)

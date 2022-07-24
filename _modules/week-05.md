@@ -9,4 +9,4 @@ TBD
 : **Lab**{: .label .label-purple } [Exploiting RNG](#)
 
 TBD 
-: **Note**{: .label .label-blue } [True Randomness and Statistical Randomness Testing](#)
+: **Note**{: .label .label-blue } [Note 5](#)

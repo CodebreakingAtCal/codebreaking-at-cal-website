@@ -9,4 +9,4 @@ TBD
 : **Lab**{: .label .label-purple } [Elliptic Curve Cryptography](#)
 
 TBD 
-: **Note**{: .label .label-blue } [Elliptic Curves and Block Ciphers](#)
+: **Note**{: .label .label-blue } [Note 9](#)

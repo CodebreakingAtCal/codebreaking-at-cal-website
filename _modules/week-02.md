@@ -9,4 +9,4 @@ TBD
 : **Lab**{: .label .label-purple } [Breaking Enigma](#)
 
 TBD 
-: **Note**{: .label .label-blue } [Basic Information Theory](#)
+: **Note**{: .label .label-blue } [Note 2](#)

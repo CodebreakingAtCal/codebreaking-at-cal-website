@@ -9,4 +9,4 @@ TBD
 : **Lab**{: .label .label-purple } [Polyalphabetic Substitution](#)
 
 TBD 
-: **Note**{: .label .label-blue } [Frequency Analysis](#)
+: **Note**{: .label .label-blue } [Note 1](#)

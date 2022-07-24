@@ -9,4 +9,4 @@ TBD
 : **Lab**{: .label .label-purple } [Breaking MACs](#)
 
 TBD 
-: **Note**{: .label .label-blue } [Authentication and Signatures](#)
+: **Note**{: .label .label-blue } [Note 8](#)
