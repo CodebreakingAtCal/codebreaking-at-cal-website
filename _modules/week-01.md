@@ -9,4 +9,4 @@ TBD
 : **Lab**{: .label .label-purple } [Polyalphabetic Substitution](#)
 
 TBD 
-: **Note**{: .label .label-blue } [Note 1](#)
+: **Note**{: .label .label-blue } [Note 1](assets/notes/note1.pdf)
