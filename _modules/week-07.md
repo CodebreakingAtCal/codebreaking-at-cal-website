@@ -2,11 +2,8 @@
 title: Week 7
 ---
 
-TBD
-: **Lecture**{: .label .label-red } [Steganography](#)
+10/18
+: **Lecture 7**{: .label .label-red } [Steganography](#)
+: **Lab 7**{: .label .label-purple } [Innocent Images](#) (Due 10/25)
+: **Note 7**{: .label .label-blue } [Statistical Analysis of Images](#)
 
-TBD 
-: **Lab**{: .label .label-purple } [Innocent Images](#)
-
-TBD 
-: **Note**{: .label .label-blue } [Note 7](#)

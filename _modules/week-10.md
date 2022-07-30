@@ -2,11 +2,7 @@
 title: Week 10
 ---
 
-TBD
-: **Lecture**{: .label .label-red } [Post-Quantum Encryption](#)
-
-TBD 
-: **Lab**{: .label .label-purple } [Prime Factorization](#)
-
-TBD 
-: **Note**{: .label .label-blue } [Note 10](#)
+11/8
+: **Lecture 10**{: .label .label-red } [Modern Encryption - Part 2](#)
+: **Lab 10**{: .label .label-purple } [Kleptographic Backdoors](#) (Due 11/15)
+: **Note 10**{: .label .label-blue } [Elliptic Curve Cryptography](#)

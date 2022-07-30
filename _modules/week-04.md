@@ -2,11 +2,7 @@
 title: Week 4
 ---
 
-TBD
-: **Lecture**{: .label .label-red } [Asymmetric Encryption - Part 2](#)
-
-TBD 
-: **Lab**{: .label .label-purple } [MITM Attack on Diffie-Hellman](#)
-
-TBD 
-: **Note**{: .label .label-blue } [Note 4](#)
+9/27
+: **Lecture 4**{: .label .label-red } [Asymmetric Encryption - Part 2](#)
+: **Lab 4**{: .label .label-purple } [Man-in-the-middle Attack](#) (Due 10/4)
+: **Note 4**{: .label .label-blue } [Diffie-Hellman Key Exchange](#)

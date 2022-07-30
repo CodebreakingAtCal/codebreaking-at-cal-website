@@ -2,11 +2,7 @@
 title: Week 0
 ---
 
-TBD
-: **Lecture**{: .label .label-red } [Introduction](#)
-
-TBD 
-: **Lab**{: .label .label-purple } [Examples of Encryption](#)
-
-TBD 
-: **Note**{: .label .label-blue } [Note 0](#)
+8/30
+: **Lecture 0**{: .label .label-red } [Introduction](#)
+: **Lab 0**{: .label .label-purple } [Setup](#) (Due 9/6)
+: **Note 0**{: .label .label-blue } [Math Notation](#)

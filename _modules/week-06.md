@@ -2,11 +2,7 @@
 title: Week 6
 ---
 
-TBD
-: **Lecture**{: .label .label-red } [Hashing](#)
-
-TBD 
-: **Lab**{: .label .label-purple } [Birthday Paradox](#)
-
-TBD 
-: **Note**{: .label .label-blue } [Note 6](#)
+10/11
+: **Lecture 6**{: .label .label-red } [Hashing](#)
+: **Lab 6**{: .label .label-purple } [Collision Resistance](#) (Due 10/18)
+: **Note 6**{: .label .label-blue } [Birthday Paradox](#)

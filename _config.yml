@@ -29,6 +29,7 @@ heading_anchors: true
 permalink: pretty
 aux_links:
 footer_content:
+encoding: utf-8
 
 # Collections for website data
 collections:
