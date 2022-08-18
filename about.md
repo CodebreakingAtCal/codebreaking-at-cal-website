@@ -28,7 +28,7 @@ NOTE: We really don't want to NP anyone who puts in effort. Reach out to staff i
 
 ## Lecture
 
-Lecture attendance is vital to learning the material and forms 40% of the student's final grade. Lecture will be once a week at **6:30 - 8:30 PM**, in-person at **Soda 306** and webcast.
+Lecture attendance is vital to learning the material and forms 40% of the student's final grade. Lecture will be once a week at **6:30 - 8:00 PM**, in-person at **Soda 306** and webcast.
 
 Each lecture attended counts towards 10% of total lecture attendance (4% overall score), so only 10 lectures are needed to get full credit for this section.
 
