@@ -15,7 +15,7 @@ Welcome to the Fall 2022 iteration of Codebreaking At Cal! This course focuses o
 
 We are scheduled to have lecture once weekly on Tuesday 6:30 - 8 PM in Soda 306.
 
-Interest Form for Fall 2022: [https://forms.gle/YMtrMn1JUTeuhKrn9](https://forms.gle/YMtrMn1JUTeuhKrn9)
+Unfortunately, we are no longer accepting applications for Fall.
 
 Join our Discord Server over at [https://discord.gg/Ewr2QnxKkX](https://discord.gg/Ewr2QnxKkX) for updates and course help!
 
