@@ -15,8 +15,6 @@ Welcome to the Fall 2022 iteration of Codebreaking At Cal! This course focuses o
 
 Lectures are once weekly on Tuesday 6:30 - 8 PM in Soda 306. [Zoom link](https://berkeley.zoom.us/j/94249910215)
 
-Unfortunately, we are no longer accepting applications for Fall.
-
 Join our Discord Server over at [https://discord.gg/Ewr2QnxKkX](https://discord.gg/Ewr2QnxKkX) for updates and course help!
 
 {% for module in site.modules %}
