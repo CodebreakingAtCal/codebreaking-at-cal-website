@@ -3,7 +3,6 @@ title: Week 7
 ---
 
 10/18
-: **Lecture 7**{: .label .label-red } Steganography
-: **Lab 7**{: .label .label-purple } Innocent Images
-: **Note 7**{: .label .label-blue } Statistical Analysis of Images
-
+: **Lecture 7**{: .label .label-red } Randomness
+: **Lab 7**{: .label .label-purple } Exploiting RNG 
+: **Note 7**{: .label .label-blue } Random Number Generation

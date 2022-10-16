@@ -3,6 +3,7 @@ title: Week 8
 ---
 
 10/25
-: **Lecture 8**{: .label .label-red } Randomness
-: **Lab 8**{: .label .label-purple } Exploiting RNG 
-: **Note 8**{: .label .label-blue } Random Number Generation
+: **Lecture 8**{: .label .label-red } Steganography
+: **Lab 8**{: .label .label-purple } Innocent Images
+: **Note 8**{: .label .label-blue } Statistical Analysis of Images
+
