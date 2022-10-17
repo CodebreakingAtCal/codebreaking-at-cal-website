@@ -32,7 +32,7 @@ Lecture attendance is vital to learning the material and forms 40% of the studen
 
 Each lecture attended counts towards 10% of total lecture attendance (4% overall score), so only 10 lectures are needed to get full credit for this section.
 
-Alternatively, you can complete a quick quiz on the lecture content instead of going to lecture.
+Alternatively, you can complete a quick quiz on the lecture content instead of going to lecture. A score of 50% is required for credit on the vitamin.
 
 ## Resources
 
