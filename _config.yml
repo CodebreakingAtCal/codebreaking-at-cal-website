@@ -56,6 +56,12 @@ defaults:
       type: schedules
     values:
       layout: schedule
+  - scope: 
+      path: ''
+      title: Final Project
+      type: final_projects
+    values:
+      layout: final_project 
   - scope:
       path: ''
       type: announcements
