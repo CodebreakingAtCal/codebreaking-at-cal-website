@@ -61,6 +61,11 @@ defaults:
       type: announcements
     values:
       layout: announcement
+  - scope: 
+    path: ''
+      type: project
+    values:
+      layout: final_project
 
 compress_html:
   clippings: all
