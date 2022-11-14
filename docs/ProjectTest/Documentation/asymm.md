@@ -17,7 +17,7 @@ grand_parent: Final Project
 |   | int N |
 |  | int d |
 
-Generates an RSA public/private keypair with $b$ bits for each number. The tuple (e, N, d) is returned with $e$ representing the public exponent, $N$ representing the modulus, and $d$ representing the RSA private key.
+Generates an RSA public/private keypair with **b** bits for each number. The tuple (e, N, d) is returned with **e** representing the public exponent, **N** representing the modulus, and **d** representing the RSA private key.
 
 ## encryptRSA(message, e, N)
 
@@ -28,7 +28,7 @@ Generates an RSA public/private keypair with $b$ bits for each number. The tuple
 | int N |  |
 
 Encrypts the given integer message using the RSA public key 
-(e, N). Returns the ciphertext $m^e \mod N$.
+(e, N). Returns the ciphertext as an integer.
 
 ## decryptRSA(encrypted, d, N)
 
@@ -38,7 +38,7 @@ Encrypts the given integer message using the RSA public key
 |  int d |  |
 | int N |  |
 
-Decrypts the given integer RSA ciphertext using the RSA private key $d$ and modulus $N$. Returns the plaintext by finding $(M)^d \equiv (m^e)^d \equiv m \mod N$.
+Decrypts the given integer RSA ciphertext using the RSA private key **d** and modulus **N**. Returns the plaintext as an integer.
 
 ## signRSA(d, M, N)
 
@@ -49,7 +49,7 @@ Decrypts the given integer RSA ciphertext using the RSA private key $d$ and modu
 | int N |  |
 
 Signs the given integer message using the RSA private key 
-$d$ over modulus $N$. Returns the signature as $m^d \mod N$.
+**d** over modulus **N**. Returns the signature as an integer.
 
 ## verifyRSA(e, S, N, M)
 
@@ -61,4 +61,4 @@ $d$ over modulus $N$. Returns the signature as $m^d \mod N$.
 | int expected |  |
 
 
-Verifies that the given RSA signature corresponds to the expected message by checking $(S^e \mod N) = M$. Returns True or False.
+Verifies that the given RSA signature corresponds to the expected message. Returns True or False.
