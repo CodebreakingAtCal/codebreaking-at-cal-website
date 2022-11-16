@@ -19,6 +19,8 @@ This part is worth **1 week of lab credit**.
 
 This project will allow full use of the Codebreaking Python library. As a result, many of the functions implemented in previous labs can be resued in this project. It is highly reccomended that students review previous labs during this project if they are unsure of how to use a certain function or have questions on the functions of certain ciphers or algorithms. 
 
+You can access the project here: [Project Link](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FCodebreakingAtCal%2FCodebreakingLabs&urlpath=tree%2FCodebreakingLabs%2FFinal_Project%2FPart_1%2Fproject.ipynb&branch=master)
+
 ## Task 1.1: Server Certificate Verification
 
 Since our server and client know about each other's existence, our first step is to verify the Server's Certificate. A Certificate is verification by a certificate authority (IdenTrust and Digicert being the two largest) that a server's public RSA key matches to the server in their database. 
