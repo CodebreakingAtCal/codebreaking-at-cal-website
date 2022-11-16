@@ -13,6 +13,8 @@ description: >-
 
 Transfer Layer Security (TLS) is a commonly used cryptographic protocol that is often paired with a transmission protocol such as SMTP for email or VoIP for voice calls. This project section will be focused on TLS and HTTP by setting up the infrastructure for a TLS connection between a client and a server. TLS implementations can involve a variety of ciphers and validation steps, but this implementation will use the ***RSA - Elliptic Curve Diffie Hellman (RSA-EDCH)*** TLS method. Each task in this part of the project is designed to use the cryptographic tools we've studied to ensure that a secure connection is established between the client and the server. 
 
+This part is worth **1 week of lab credit**.
+
 ## Important Notes
 
 This project will allow full use of the Codebreaking Python library. As a result, many of the functions implemented in previous labs can be resued in this project. It is highly reccomended that students review previous labs during this project if they are unsure of how to use a certain function or have questions on the functions of certain ciphers or algorithms. 
