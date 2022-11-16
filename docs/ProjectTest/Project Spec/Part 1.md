@@ -27,18 +27,25 @@ HINT: Certificate Verification in this project uses RSA. Thus, both parties need
 
 ## Task 1.2: Elliptic Curve Parameter Generation. 
 
-Next, our server needs to set up an Elliptic Curve for the future Diffie Hellman exchange. Use a 
+Next, our server needs to set up an Elliptic Curve for the future Diffie Hellman exchange. Use the given parameters to assign variables within the `Server` class, and generate the signature on the parameters for the `Client` to verify.
 
-##  Task 1.3: Send Elliptic Curve Parameters to the Client: 
+##  Task 1.3: Send Elliptic Curve Parameters to the Client
+Write a function for the `Client` that accepts these parameters from the server, verifies their signature, and sets internal variables as required.
 
-##  Task 1.4: Generate Signed ECDH Message for Server and Client: 
+##  Task 1.4: Generate Signed ECDH Message for Server and Client 
+Now that we have our ECDH parameters agreed upon, both the server and the client need to generate their public ECDH message and store their respective secrets. Make sure to add a signature on the public values!
 
 ##  Task 1.5: Accept Diffie Hellman Values 
+Write functions for both `Server` and `Client` to accept the ECDH parameters, while verifying the signatures. Once accepted, combine the stored secret with the public value to get a shared secret value.
 
 ##  Task 1.6: Generate Client Request
+Using the shared secret, write a function that encrypts a request using AES, and attach an HMAC as well.
 
 ## Task 1.7: Server-side Request Verification
+Using the shared secret, write a function that verifies the HMAC of and decrypts the request from a client using AES.
 
 ## Task 1.8: Create Server Login
+Write code that hashes + salts a password and stores it under the given username.
 
 ## Task 1.9: Verify Server Login 
+Write code that checks whether a given username/password combination is valid.
