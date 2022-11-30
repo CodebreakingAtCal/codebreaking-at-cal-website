@@ -17,7 +17,7 @@ Much like previous labs, each link will lead you to a Jupyter Notebook. Furtherm
 
 ## Get Started
 
-You can start Part 1 here: [Part 1 Docs](https://codebreakingatcal.org/docs/ProjectTest/Project%20Spec/Part%201/)
+You can start Part 1 here: [Part 1 Docs](https://codebreakingatcal.org/docs/Project/Project%20Spec/Part%201/)
 
 The jupyter notebook link is here: [Project Link](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FCodebreakingAtCal%2FCodebreakingLabs&urlpath=tree%2FCodebreakingLabs%2FFinal_Project%2FPart_1%2Fproject.ipynb&branch=master)
 
