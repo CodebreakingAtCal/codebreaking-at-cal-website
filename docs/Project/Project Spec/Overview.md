@@ -9,7 +9,7 @@ description: >-
 
 # Final Project
 
-Codebreaking aims to introduce students to cryptography and cryptanalysis. Now it is time to apply the cyrptographic content of this course to a final project!
+Codebreaking aims to introduce students to cryptography and cryptanalysis. Now it is time to apply the cryptography content of this course to a final project!
 
 # Set Up 
 
