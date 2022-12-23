@@ -11,11 +11,14 @@ seo:
 
 # Codebreaking at Cal
 
-Welcome to the Fall 2022 iteration of Codebreaking At Cal! This course focuses on cryptography's application to real-world scenarios, and how to break various encryption schemes. 
+Welcome to the Spring 2023 iteration of Codebreaking At Cal! This course is designed as an upper-division introduction to the field 
+of cryptography, which is the science of protecting information against adversaries. 
 
-Lectures are once weekly on Tuesday 6:30 - 8 PM in Soda 306. [Zoom link](https://berkeley.zoom.us/j/94249910215)
+Lectures are once weekly on Monday 6:30 - 8 PM in Soda 306. [Zoom link](https://berkeley.zoom.us/j/94249910215)
 
-Join our Discord Server over at [https://discord.gg/Ewr2QnxKkX](https://discord.gg/Ewr2QnxKkX) for updates and course help!
+**If you are interested in enrolling for Spring 2023, please fill out this Google form:** [https://forms.gle/6mVieVFGmRuGbpSr9](https://forms.gle/6mVieVFGmRuGbpSr9).
+
+We strictly require **CS 61A** and **CS 70** or their equivalents for this course. CS 161, MATH 113, and CS 170 are helpful, but not required.
 
 {% for module in site.modules %}
 {{ module }}
