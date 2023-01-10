@@ -1,5 +1,6 @@
 ---
 title: Week 4
+semester: spring
 ---
 
 2/13

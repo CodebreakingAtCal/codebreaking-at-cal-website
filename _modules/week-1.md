@@ -1,5 +1,6 @@
 ---
 title: Week 1
+semester: spring
 ---
 
 1/23

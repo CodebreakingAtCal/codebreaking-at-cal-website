@@ -1,5 +1,6 @@
 ---
 title: Week 7
+semester: spring
 ---
 
 3/13

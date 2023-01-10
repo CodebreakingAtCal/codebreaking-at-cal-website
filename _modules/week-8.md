@@ -1,5 +1,6 @@
 ---
 title: Week 8
+semester: spring
 ---
 
 3/20

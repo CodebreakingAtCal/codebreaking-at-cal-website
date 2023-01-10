@@ -1,5 +1,6 @@
 ---
 title: Week 9
+semester: spring
 ---
 
 4/3

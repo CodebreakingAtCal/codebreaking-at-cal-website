@@ -1,5 +1,6 @@
 ---
 title: Week 3
+semester: spring
 ---
 
 2/6

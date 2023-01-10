@@ -1,5 +1,6 @@
 ---
 title: Week 10-13
+semester: spring
 ---
 
 4/10 - 4/24

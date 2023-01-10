@@ -1,5 +1,6 @@
 ---
 title: Week 5
+semester: spring
 ---
 
 2/27
