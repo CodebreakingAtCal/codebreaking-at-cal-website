@@ -38,8 +38,7 @@ Each week's lecture will have an attendance link shown at the end. Filling this 
 Each week will have a Jupyter Notebook lab to complete. These are entirely autograded, with no hidden tests. Once you have passed all the local tests, submit them to Gradescope per the notebook instructions to receive credit for that week.
 
 ## Homework
-Each week will also have a short problem set to complete. This can be handwritten or typed. Grading will be pretty lenient (specifics TBD), so a good effort will be 
-enough to count as a pass. Don't worry too much about grading, the homework is to help build understanding!
+Each week will also have a short problem set to complete. This can be handwritten or typed. A pass will count as a score >60%, though this may change on a weekly basis. Grading will be lenient, so a good effort on the homework will almost certainly be enough to pass for the week.
 
 ## Final Project
 There will be a final project announced near the end of the semester. Students are required to complete both parts to an acceptable score (TBD later). You will most likely have 3-4 weeks to complete this, and it won't be nearly the same workload as a normal CS class project.
