@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fall 2022 Materials
+title: Fall 2022 Archive
 nav_exclude: false
 nav_order: 6
 permalink: fa22.html
@@ -9,7 +9,7 @@ seo:
   name: Home
 ---
 
-# Codebreaking at Cal Fall 2022
+# Codebreaking at Cal Fall 2022 Archive
 
 This is an archive of the Fall 2022 offering of the course. Note that many of these materials are now changed in the current iteration.
 
