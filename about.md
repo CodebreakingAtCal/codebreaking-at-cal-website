@@ -41,4 +41,4 @@ Each week will have a Jupyter Notebook lab to complete. These are entirely autog
 Each week will also have a short problem set to complete. This can be handwritten or typed. A pass will count as a score >60%, though this may change on a weekly basis. Grading will be lenient, so a good effort on the homework will almost certainly be enough to pass for the week.
 
 ## Final Project
-There will be a final project announced near the end of the semester. Students are required to complete both parts to an acceptable score (TBD later). You will most likely have 3-4 weeks to complete this, and it won't be nearly the same workload as a normal CS class project. The focus will be on fun "challenge" type of exercises much like a Capture The Flag game, if you've heard of that.
+There will be a final project announced near the end of the semester. Students are required to complete both parts to an acceptable score (TBD later). You will most likely have 3-4 weeks to complete this, and it won't be nearly the same workload as a normal CS class project. The focus will be on fun "challenge" type of exercises much like an online Capture The Flag game, if you've heard of that.
