@@ -29,7 +29,7 @@ please note so on the enrollment form.
 Helpful, but not required: CS 161, CS 170, MATH 113, MATH 116
 
 ## Grading
-You are required to attend at least **10** lectures, complete **8** labs, pass **8** homeworks, and complete the final project to pass. 
+You are required to attend at least **10** lectures, complete **8** labs, pass **8** homeworks, and complete the final project to pass. We do not want to (or plan to) fail anyone, so please reach out to staff if you want extensions/need help!
 
 ## Attendance
 Each week's lecture will have an attendance link shown at the end. Filling this out and getting at least 50% correct on the questions in the form will credit you with attendance for the week. This form must be filled out during/immediately after lecture, but both in-person and Zoom attendance counts the same.
