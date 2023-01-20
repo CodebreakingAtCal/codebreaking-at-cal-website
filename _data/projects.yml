@@ -22,9 +22,9 @@
 projects:
   - title: "No Project"
     rowspan: 10
-  - due: "Tue, Jan 31"
+  - due: "Sun, Apr 9"
     title: "Final Project Part 1"
     rowspan: 1
-  - due: "Tue, Feb 14"
+  - due: "Sun, Apr 30"
     title: "Final Project Part 2"
     rowspan: 3
