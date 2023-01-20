@@ -1,0 +1,31 @@
+# Follow the steps on https://fullcalendar.io/docs/v4/google-calendar until "Getting Set Up" to obtain the google_calendar_id.
+
+google_api_key: AIzaSyBM2NnPMx5rgCK8fZaG5X1qNcSiW-CRkRg
+google_calendar_id: c_479e1ddff236af2ffc68f4639ba02ce88afc20a680106fdd7f3f4d5baa2c18b1@group.calendar.google.com # replace this
+min_time: '09:00:00'
+max_time: '22:00:00'
+
+event_types:
+  - needle: '' # default
+    color: '#B4C6E0'
+    text_color: '#000000'
+  - needle: Discussion
+    color: '#ECD9C9'
+    text_color: '#2A1B0F'
+  - needle: Exam Prep
+    color: '#ECD9C9'
+    text_color: '#2A1B0F'
+  - needle: Extended
+    color: '#ECD9C9'
+    text_color: '#2A1B0F'
+  - needle: Office Hours
+    color: '#C0E1D2'
+    text_color: '#0E2E1F'
+  - needle: Party
+    color: '#C0E1D2'
+    text_color: '#0E2E1F'
+  - needle: Lecture
+    color: '#CAC8EB'
+    text_color: '#100E28'
+
+remove_prefix: "[CS 188]"

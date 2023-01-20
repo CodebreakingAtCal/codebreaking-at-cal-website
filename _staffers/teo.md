@@ -1,6 +1,6 @@
 ---
 name: Teo Honda-Scully
-role: Teaching Assistant
+role: TA
 email: thondascully@berkeley.edu
 photo: teo.png
 subpath: 

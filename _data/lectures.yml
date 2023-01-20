@@ -1,0 +1,80 @@
+#####################################
+# Instructions for updating website #
+#####################################
+
+# To upload lecture slides to the website, just put the PDF
+# in assets/lectures using the filename convention above.
+#
+# The link to the slides will automatically appear once you
+# put the PDF with the right filename in the right folder.
+#
+# Lecture slide filepaths are all formatted based on the lecture number.
+# Pad lecture numbers, e.g. lecture 2 uses "02", not "2".
+#
+# For example, the first few lecture slides should be put at:
+#   - /assets/lectures/lec01.pdf
+#   - /assets/lectures/lec02.pdf
+#     ...
+#   - /assets/lectures/lec25.pdf
+
+# To link lecture recordings on the website, fill in the
+# recordings field in the corresponding lecture below.
+
+# Lecture notes are similarly formatted, and links also
+# automatically appear when you put the PDF in the right filename
+# in the right folder.
+#
+# For example, the first few lecture notes should be put at:
+#   - /assets/notes/cs188-sp23-note01.pdf
+#   - /assets/notes/cs188-sp23-note02.pdf
+#     ... 
+#   - /assets/notes/cs188-sp23-note25.pdf
+
+
+#####################################
+# Additional documentation          #
+#####################################
+
+# Each element in the array corresponds to one box on the website.
+# This includes boxes that are blank or don't have a lecture.
+# By default, each box spans 1 row (edit the default in syllabus.yml).
+# To override this, use the "rowspan" attribute to resize a box.
+
+# The website automatically numbers each element in the array.
+# To skip numbering (e.g. for a "no lecture" box), add
+# "nonumber: True" as an attribute.
+
+# To add a box on a date without a lecture, or to add an extra box
+# on a date with a lecture, add the date to the extra_days field
+# in syllabus.yml (more documentation there). Then, to fill in your
+# new box, add an element in the array where the box would appear.
+
+lectures:
+  - title: "Intro to Classical Cryptography"
+    recording: 
+  - title: "Information Theory and Randomness"
+    recording: 
+  - title: "Block and Stream Ciphers"
+    recording: 
+  - title: "Hashing and Message Authentication Codes"
+    recording: 
+  - title: "Optional Lecture (Holiday)"
+    recording: 
+  - title: "Introduction to Asymmetric Cryptography"
+    recording: 
+  - title: "Discrete Log, Factorization, and Hardness Assumptions"
+    recording: 
+  - title: "Elliptic Curve Cryptography"
+    recording: 
+  - title: "Digital Signatures, Public Key Infrastructure"
+    recording: 
+  - title: "Post-Quantum Cryptography"
+    recording: 
+  - title: "Spring Break"
+    recording: 
+  - title: "Special Topics (TBD)"
+    recording: 
+  - title: "Special Topics (TBD)"
+    recording: 
+  - title: "Special Topics (TBD)"
+    recording: 

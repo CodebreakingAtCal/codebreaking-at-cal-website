@@ -1,6 +1,6 @@
 ---
 name: Will Giorza
-role: Teaching Assistant
+role: TA
 email: wgiorza@berkeley.edu
 website: https://will.giorza.com
 photo: will.jpg

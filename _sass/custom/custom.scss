@@ -7,14 +7,54 @@
 @import 'schedule';
 @import 'staffer';
 
-// Overrides
-a abbr[title] {
-  border-bottom: none;
+// Begin CS 188
+
+td {
+  min-width: 0;
 }
 
-abbr[title] {
-  text-decoration: none;
+th {
+  min-width: 0;
 }
+
+table {
+  td.is-even {
+    background-color: darken($body-background-color, 5%);
+  }
+  td.border-hack {
+    border-left:1px solid $border-color;
+  }
+}
+
+// Button copying
+.no-copy-button .btn-copy-code {
+  display: none;
+}
+.btn-copy-code {
+ font-size:85%;
+ position:absolute;
+ right:4px;
+ top:4px;
+ opacity:.5;
+ transition:opacity .3s ease-in-out
+}
+.btn-copy-code:hover {
+ cursor:pointer
+}
+div.highlight:hover .btn-copy-code,
+div.highlight .btn-copy-code:focus {
+ opacity:1
+}
+div.highlight .btn-copy-code:hover {
+ opacity:1
+}
+div.highlight {
+ position:relative
+}
+
+// End CS 188
+
+// Overrides
 
 code {
   font-size: 14px;
@@ -22,29 +62,8 @@ code {
   border: none;
 }
 
-div.highlighter-rouge[overlay] {
-  position: relative;
-
-  &::after {
-    @extend .label, .text-grey-dk-100;
-
-    background-color: $white;
-    border-radius: $border-radius;
-    bottom: $sp-2;
-    content: attr(overlay);
-    position: absolute;
-    right: 0;
-    user-select: none;
-  }
-}
-
 details {
   margin: 0 40px 1em;
-}
-
-h1, h2, h3, h4, h5, h6 {
-  align-items: center;
-  display: flex;
 }
 
 iframe,
@@ -62,11 +81,6 @@ summary {
 }
 
 .main-content {
-  a {
-    overflow-wrap: anywhere;
-    white-space: normal;
-  }
-
   dl {
     display: block;
     grid-template-columns: none;
@@ -88,39 +102,12 @@ summary {
       margin-top: 1em;
     }
   }
-
-  .katex {
-    font-size: 1.1em;
-  }
 }
 
-[style*="--aspect-ratio"] > :first-child {
-  width: 100%;
-}
+.js-toc.nav-list .nav-list-item > .nav-list {
+  display: block;
 
-[style*="--aspect-ratio"] > img {
-  height: auto;
-}
-
-@supports (--custom:property) {
-  [style*="--aspect-ratio"] {
-    position: relative;
-  }
-
-  [style*="--aspect-ratio"]::before {
-    content: "";
-    display: block;
-    padding-bottom: calc(100% / (var(--aspect-ratio)));
-  }
-
-  [style*="--add-height"]::before {
-    padding-bottom: calc(100% / (var(--aspect-ratio)) + (var(--add-height)));
-  }
-
-  [style*="--aspect-ratio"] > :first-child {
-    position: absolute;
-    top: 0;
-    left: 0;
-    height: 100%;
+  .is-collapsed {
+    display: none;
   }
 }

@@ -14,26 +14,28 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Codebreaking at Cal
-tagline: Fall 2022
-description: A student-led course in applied cryptography and codebreaking
-author: Ryan Cottone, Imran
-#baseurl: '/' # the subpath of your site, e.g. /blog
-url: '' # the base hostname & protocol for your site, e.g. http://example.com
-exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
+description: Introduction to Cryptography 
+baseurl: '/' # (temporary) the subpath of your site, e.g. /blog
+url: https://codebreakingatcal.org
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "vendor"]
 
 # Theme settings
-remote_theme: just-the-docs/just-the-docs@v0.3.3
+remote_theme: just-the-docs/just-the-docs@v0.4.0.rc3
 color_scheme: light
 search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
+  Dark Mode:
+    - '#'
+  Ed:
+    - 'https://edstem.org/us/courses/31353'
+  Extensions Form:
+    - 'https://docs.google.com/forms/d/e/1FAIpQLSdL5cIWCg5M5ADZxX6zkE5t6UdlvrHXD0aC9uhQcrb5-EPtDw/viewform'
 footer_content:
-encoding: utf-8
 
-# Collections for website data
+# Collections for website datas
 collections:
-  home:
   staffers:
   modules:
   schedules:
@@ -45,7 +47,7 @@ defaults:
       type: staffers
     values:
       layout: staffer
-      subpath: '/assets/images/'
+      subpath: '/assets/staff/'
   - scope:
       path: ''
       type: modules
@@ -56,12 +58,6 @@ defaults:
       type: schedules
     values:
       layout: schedule
-  - scope: 
-      path: ''
-      title: Final Project
-      type: final_projects
-    values:
-      layout: final_project 
   - scope:
       path: ''
       type: announcements
@@ -79,4 +75,13 @@ compress_html:
 plugins:
   - jekyll-seo-tag
 
-theme: jekyll-theme-minimal
+color_scheme: wider
+
+callouts:
+  warning:
+    title: Warning
+    color: yellow
+
+# CS 188 custom config variable
+# Set this to true at the start of semesters to show a warning on the homepage
+under_construction: false

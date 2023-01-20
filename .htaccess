@@ -1,0 +1,2 @@
+ErrorDocument 403 /~cs188/sp23/404.html
+ErrorDocument 404 /~cs188/sp23/404.html
