@@ -20,13 +20,11 @@
 # "nonumber: True" as an attribute.
 
 projects:
-  - title: "no project"
+  - title: "No Project"
     rowspan: 10
   - due: "Tue, Jan 31"
     title: "Final Project Part 1"
-    link: #"projects/proj1/"
     rowspan: 1
   - due: "Tue, Feb 14"
     title: "Final Project Part 2"
-    link: #"projects/proj2/"
     rowspan: 3

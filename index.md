@@ -22,9 +22,6 @@ Lectures are once weekly on Monday 6:30 - 8 PM in Soda 306. [Zoom link](https://
 We strictly require **CS 61A** and **CS 70** or their equivalents for this course. CS 161, MATH 113, and CS 170 are helpful, but not required.
 
 ## Calendar
-
-[Skip to current week](#week-{{ 'now' | date: '%U' }}){: .btn .btn-outline .fs-3 }
-
 <div>
 {%- include syllabus.html -%}
 </div>
