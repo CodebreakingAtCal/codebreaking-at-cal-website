@@ -20,7 +20,7 @@ Lectures are once weekly on Monday 6:30 - 8 PM in Soda 306. [Zoom link](https://
 
 We strictly require **CS 61A** and **CS 70** or their equivalents for this course. CS 161, MATH 113, and CS 170 are helpful, but not required.
 
-**Assignment Extension Request Form**: [Google Form](https://forms.gle/N6zAgeiNwRC9Uj186)
+**Assignment Extension Request Form**: [https://bit.ly/codebreaking-extension](https://bit.ly/codebreaking-extension)
 
 {% assign newmodules = site.modules | where: 'semester', 'spring' %}
 {% for module in newmodules %}
