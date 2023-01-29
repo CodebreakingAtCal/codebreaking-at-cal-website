@@ -23,7 +23,7 @@ The Codebreaking at Cal DeCal is designed to provide an introduction to the fiel
 
 This is **technical DeCal**, so expect a moderate level of workload.
 ## Prerequisites
-We **stricly require** CS 70 and CS 61A (or equivalent discrete math, probability, and Python programming experience). If you think you have the equivalent background, 
+We **strictly require** CS 70 and CS 61A (or equivalent discrete math, probability, and Python programming experience). If you think you have the equivalent background, 
 please note so on the enrollment form.
 
 Helpful, but not required: CS 161, CS 170, MATH 113, MATH 116
