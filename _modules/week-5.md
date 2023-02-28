@@ -8,3 +8,4 @@ semester: spring
 : **Note**{: .label .label-blue } [Note 5](https://codebreakingatcal.org/assets/notes/note5.pdf)
 : **Lab**{: .label .label-purple } [Lab 5](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FCodebreakingAtCal%2FCodebreakingLabs&urlpath=tree%2FCodebreakingLabs%2FLab5%2Flab05.ipynb&branch=master)
 : **Homework**{: .label .label-orange } [Homework 5](https://codebreakingatcal.org/assets/homework/hw5.pdf)
+: **Makeup Assignment**{: .label .label-green } [Makeup Assignment 4](https://codebreakingatcal.org/assets/makeup/makeup5.pdf)
