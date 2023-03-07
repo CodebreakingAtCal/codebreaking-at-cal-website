@@ -4,6 +4,7 @@ semester: spring
 ---
 
 3/20
-: **Lecture**{: .label .label-red } Digital Signatures, Public Key Infrastructure
+: **Lecture**{: .label .label-red } Elliptic Curve Cryptography
 : **Note**{: .label .label-blue } Note 8
-: **Project**{: .label .label-green } Final Project
+: **Lab**{: .label .label-purple } Lab 8
+: **Homework**{: .label .label-orange } Homework 8
