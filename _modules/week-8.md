@@ -8,3 +8,4 @@ semester: spring
 : **Note**{: .label .label-blue } [Note 8](https://codebreakingatcal.org/assets/notes/note8.pdf)
 : **Lab**{: .label .label-purple } Lab 8
 : **Homework**{: .label .label-orange } [Homework 8](https://codebreakingatcal.org/assets/homework/hw8.pdf)
+: **Makeup Assignment**{: .label .label-green } [Makeup Assignment 8](https://codebreakingatcal.org/assets/makeup/makeup8.pdf)
