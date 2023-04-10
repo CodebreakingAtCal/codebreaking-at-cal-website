@@ -5,5 +5,5 @@ semester: spring
 
 4/10
 : **Lecture**{: .label .label-red } Post-Quantum Cryptography
-: **Note**{: .label .label-blue } Note 9
-: **Project**{: .label .label-green } Final Project
+: **Note**{: .label .label-blue } [Note 9](https://codebreakingatcal.org/assets/notes/note9.pdf)
+: **Lab**{: .label .label-purple } [Lab 9](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FCodebreakingAtCal%2FCodebreakingLabs&urlpath=tree%2FCodebreakingLabs%2FLab9%2Flab09.ipynb&branch=master)
