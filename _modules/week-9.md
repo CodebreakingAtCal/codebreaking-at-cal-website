@@ -9,3 +9,4 @@ semester: spring
 : **Lab**{: .label .label-purple } [Lab 9](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FCodebreakingAtCal%2FCodebreakingLabs&urlpath=tree%2FCodebreakingLabs%2FLab9%2Flab09.ipynb&branch=master)
 : **Homework**{: .label .label-orange } [Homework 9](https://codebreakingatcal.org/assets/homework/hw9.pdf)
 : **Makeup Assignment**{: .label .label-green } [Makeup Assignment 9](https://codebreakingatcal.org/assets/makeup/makeup9.pdf)
+: **Project**{: .label .label-green } Final Project ([Challenge Version](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FCodebreakingAtCal%2FCodebreakingLabs&urlpath=tree%2FCodebreakingLabs%2FFinal_Project%2Ffinal_project.ipynb&branch=master), [Open-Ended Version](https://codebreakingatcal.org/assets/homework/final_project.pdf))
